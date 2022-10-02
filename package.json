@@ -1,0 +1,23 @@
+{
+  "name": "cy-dojo-desafio-final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nateabv/cy-dojo-desafio-final.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nateabv/cy-dojo-desafio-final/issues"
+  },
+  "homepage": "https://github.com/nateabv/cy-dojo-desafio-final#readme",
+  "devDependencies": {
+    "cypress": "^10.9.0"
+  }
+}
